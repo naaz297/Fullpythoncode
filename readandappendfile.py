@@ -3,5 +3,5 @@
 # f.close()
 
 f=open("naaz.txt","a")
-f.write("I love to study")
+f.write("\nI love to study")
 f.close()
